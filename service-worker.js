@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/yashshah2372/lights-out-game.git/precache-manifest.4cab72739066c4282d2a9ff531b4d20b.js"
+  "/lights-out-game/precache-manifest.ea2515136885992d2d7224d4fc3a4c85.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/yashshah2372/lights-out-game.git/index.html", {
+workbox.routing.registerNavigationRoute("/lights-out-game/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

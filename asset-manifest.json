@@ -1,13 +1,13 @@
 {
-  "main.css": "/yashshah2372/lights-out-game.git/static/css/main.ed95a9e1.chunk.css",
-  "main.js": "/yashshah2372/lights-out-game.git/static/js/main.53084669.chunk.js",
-  "main.js.map": "/yashshah2372/lights-out-game.git/static/js/main.53084669.chunk.js.map",
-  "static/js/1.b43a7eab.chunk.js": "/yashshah2372/lights-out-game.git/static/js/1.b43a7eab.chunk.js",
-  "static/js/1.b43a7eab.chunk.js.map": "/yashshah2372/lights-out-game.git/static/js/1.b43a7eab.chunk.js.map",
-  "runtime~main.js": "/yashshah2372/lights-out-game.git/static/js/runtime~main.e60a8066.js",
-  "runtime~main.js.map": "/yashshah2372/lights-out-game.git/static/js/runtime~main.e60a8066.js.map",
-  "static/css/main.ed95a9e1.chunk.css.map": "/yashshah2372/lights-out-game.git/static/css/main.ed95a9e1.chunk.css.map",
-  "index.html": "/yashshah2372/lights-out-game.git/index.html",
-  "precache-manifest.4cab72739066c4282d2a9ff531b4d20b.js": "/yashshah2372/lights-out-game.git/precache-manifest.4cab72739066c4282d2a9ff531b4d20b.js",
-  "service-worker.js": "/yashshah2372/lights-out-game.git/service-worker.js"
+  "main.css": "/lights-out-game/static/css/main.ed95a9e1.chunk.css",
+  "main.js": "/lights-out-game/static/js/main.3babb6b9.chunk.js",
+  "main.js.map": "/lights-out-game/static/js/main.3babb6b9.chunk.js.map",
+  "static/js/1.b43a7eab.chunk.js": "/lights-out-game/static/js/1.b43a7eab.chunk.js",
+  "static/js/1.b43a7eab.chunk.js.map": "/lights-out-game/static/js/1.b43a7eab.chunk.js.map",
+  "runtime~main.js": "/lights-out-game/static/js/runtime~main.c21eb99d.js",
+  "runtime~main.js.map": "/lights-out-game/static/js/runtime~main.c21eb99d.js.map",
+  "static/css/main.ed95a9e1.chunk.css.map": "/lights-out-game/static/css/main.ed95a9e1.chunk.css.map",
+  "index.html": "/lights-out-game/index.html",
+  "precache-manifest.ea2515136885992d2d7224d4fc3a4c85.js": "/lights-out-game/precache-manifest.ea2515136885992d2d7224d4fc3a4c85.js",
+  "service-worker.js": "/lights-out-game/service-worker.js"
 }
